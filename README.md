@@ -1,3 +1,6 @@
+# Søger læreplads som Datatekniker (programmering som speciale)
+
+
 - 👋 Hi, I’m @MDockir
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
