@@ -1,6 +1,6 @@
 # Søger læreplads som Datatekniker (programmering som speciale)
 
-#Mit Primære Arbejde har Været i C#, Men Jeg Har Også Erfaring med Andre Programmeringssprog
+Mit Primære Arbejde har Været i C#, Men Jeg Har Også Erfaring med Andre Programmeringssprog
 
 
 
