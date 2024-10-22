@@ -1,5 +1,9 @@
 # Søger læreplads som Datatekniker (programmering som speciale)
 
+#Mit Primære Arbejde har Været i C#, Men Jeg Har Også Erfaring med Andre Programmeringssprog
+
+
+
 
 - 👋 Hi, I’m @MDockir
 - 👀 I’m interested in ...
@@ -8,8 +12,3 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-MDockir/MDockir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
