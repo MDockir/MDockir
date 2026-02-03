@@ -1,6 +1,6 @@
-<h2>⚡ Søger læreplads som Datatekniker (programmering som speciale) ⚡</h2>
+<h2>⚡ Søger læreplads som Datatekniker (med speciale i programmering) ⚡</h2>
 
-<h4>Jeg har primært arbejdet i C# som programmeringssprog, men har også erfaring med følgende teknologier:</h4>
+<h4>Jeg arbejder primært i C#, men har erfaring med flere teknologier:</h4>
 <table>
   <tr>
     <td>C#</td>
@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-<h4>DevOps-værktøjer jeg har arbejdet med. Azure har jeg anvendt på en tidligere arbejdsplads, mens Docker og Portainer blev brugt på en Linux-server, hvor jeg hostede en Blazor-applikation via Apache:</h4>
+<h4>DevOps og cloud-værktøjer jeg har arbejdet med:</h4>
 <table>
   <tr>
     <td>Azure</td>
@@ -34,7 +34,8 @@
   </tr>
 </table>
 
-<h4>Jeg har arbejdet med dataimport fra API’er samt import og eksport af data i blandt andet følgende formater:</h4>
+<h4>Datahåndtering:</h4>
+<p>Jeg har arbejdet med import og eksport af data fra API’er og filer i blandt andet:</p>
 <table>
   <tr>
     <td>MS SQL</td>
@@ -48,60 +49,59 @@
   </tr>
 </table>
 
-<h4>Frameworks og arkitekturprincipper, herunder MVC og MVVM. For nylig har jeg også kigget på React og Angular, som indgår senere i uddannelsesforløbet.</h4>
+<h4>Frameworks & Arkitektur:</h4>
+<p>Jeg arbejder med .NET, Blazor og kender til MVC og MVVM. Jeg har også udforsket React og Angular for at forberede mig på kommende projekter.</p>
 <table>
   <tr>
     <td>.NET</td>
     <td>Blazor</td>
+    <td>React</td>
+    <td>Angular</td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="60px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60px"></td>
   </tr>
 </table>
 
-<h4>Jeg har haft en introduktion til Angular og React, men har endnu ikke udviklet selvstændige projekter i disse teknologier.</h4>
-
-<h4>🔭 Jeg har udviklet flere projekter i Blazor Server og arbejder løbende på nye.</h4>
-
-<h4>🎴 Jeg har udviklet og vedligeholder en hjemmeside for et kulturprojekt ved brug af HTML, Bootstrap, CSS og JavaScript:</h4>
-🔗 https://[DIT-PROJEKT-LINK]
-
-<h4>🌱 Mit seneste fokus har været API-integration, JSON-import/eksport, OOP, Entity Framework, DbContext og Dependency Injection.</h4>
-
-<h4>📽️ På grundforløbet producerede jeg undervisningsvideoer om min læring til kommende elever, som jeg delte på YouTube:</h4>
-🔗 https://[DIT-YOUTUBE-LINK]
-
-<p>Se også min GitHub-side:</p>
-🔗 https://[DIT-GITHUB-LINK]
+<h4>Projekter & erfaring:</h4>
+<ul>
+  <li>Udviklet flere projekter i Blazor Server</li>
+  <li>Vedligeholdt og opdateret hjemmeside for et kulturprojekt (HTML, CSS, Bootstrap, JS) – <a href="https://www.gnist.show">gnist.show</a></li>
+  <li>Opsat egen Linux-server med Docker, MS SQL og Portainer</li>
+</ul>
 
 <details>
-<summary>Nogle af mine faglige mål</summary>
+<summary>Mål og udvikling</summary>
 
-| Rank | Fokusområde                  |
-|-----:|------------------------------|
-| 1    | Blive stærk i C#             |
-| 2    | Lære Python                  |
-| 3    | Angular & TypeScript         |
-| 4    | Avanceret MS SQL             |
-| 5    | Docker og containerisering   |
-| 6    | Linux                        |
-| 7    | GitHub & Azure               |
-| 8    | Nye teknologier              |
+| Prioritet | Fokusområde |
+|-----------|-------------|
+| 1         | Mestre C#  |
+| 2         | Lære Python |
+| 3         | Angular & TypeScript |
+| 4         | Avanceret MS SQL |
+| 5         | Docker & containerisering |
+| 6         | Linux |
+| 7         | GitHub & Azure |
+| 8         | Nye teknologier |
 
 </details>
 
 <h2>🖇️ PROFIL</h2>
-Jeg har stor passion for IT og er drevet af nysgerrighed og lysten til at skabe strukturerede og automatiserede løsninger.  
-Jeg arbejder analytisk og løsningsorienteret, men er samtidig kreativ og visuelt tænkende.  
-Min baggrund inden for det pædagogiske felt har givet mig stærke sociale og formidlingsmæssige kompetencer.
+<p>
+Jeg er passioneret omkring IT og elsker at finde løsninger, strukturere data og automatisere processer.  
+Jeg er nysgerrig, løsningsorienteret og analytisk, men også kreativ og visuel.  
+Min erfaring indenfor pædagogik har givet mig stærke sociale og relationsskabende kompetencer.
+</p>
 
 <h4>😄 STYRKER</h4>
 <ul>
   <li>Samarbejde og relationsopbygning</li>
-  <li>Proaktiv og nysgerrig tilgang</li>
-  <li>Stærk logisk og analytisk sans</li>
-  <li>Formidling og videndeling</li>
+  <li>Proaktiv og nysgerrig</li>
+  <li>Logisk og analytisk tænkning</li>
+  <li>Formidling af viden</li>
 </ul>
 
 <h4>🏡 SPROG</h4>
@@ -111,14 +111,14 @@ Min baggrund inden for det pædagogiske felt har givet mig stærke sociale og fo
 </ul>
 
 <h4>🎨 HOBBYER</h4>
-Når jeg ikke arbejder med IT, bruger jeg tid på skak, kunst, gåture, musik, bøger og familie.  
-Jeg har desuden opsat og vedligeholder en Linux-server med Docker, MS SQL og Portainer.
+<p>
+Skak, kunst, gåture, musik, bøger og familie.  
+Opsætning og vedligehold af egen Linux-server med Docker, MS SQL og Portainer.
+</p>
 
-📫 Kontakt: [DIN-EMAIL]
+<h4>📫 Kontakt</h4>
+<p>Email: <a href="mailto:mads@dockir.dk">mads@dockir.dk</a></p>
 
 <a href="https://[DIT-LINKEDIN]">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60px">
 </a>
-
-
-
