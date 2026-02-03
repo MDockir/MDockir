@@ -43,13 +43,6 @@ Jeg elsker at strukturere data, bygge løsninger og udforske nye teknologier —
 <h4>Frameworks & Arkitektur:</h4>
 <p>.NET, Blazor, MVC, MVVM, og introduktion til React og Angular.</p>
 
-<h4>Projekter:</h4>
-<ul>
-  <li>Udviklet projekter i Blazor Server</li>
-  <li>Vedligeholdt hjemmeside for et kulturprojekt – <a href="https://www.gnist.show">gnist.show</a></li>
-  <li>Opsætning af Linux-server med Docker, MS SQL og Portainer</li>
-</ul>
-
 <details>
 <summary>Mål & udvikling</summary>
 
