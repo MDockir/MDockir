@@ -1,6 +1,12 @@
-<h2>⚡ Søger læreplads som Datatekniker (med speciale i programmering) ⚡</h2>
+<h2>⚡ Søger læreplads som Datatekniker (programmering som speciale) ⚡</h2>
 
-<h4>Jeg arbejder primært i C#, men har erfaring med flere teknologier:</h4>
+<h4>Hej, jeg hedder Mads, jeg er 26 år og passioneret omkring IT, sport og teamwork.</h4>
+<p>
+Jeg arbejder primært med C#, men har også erfaring med MS SQL, HTML, CSS, JavaScript og moderne frameworks som Blazor, React og Angular.  
+Jeg elsker at strukturere data, bygge løsninger og udforske nye teknologier — for mig er IT både logik og kreativitet på én gang.
+</p>
+
+<h4>Teknologier jeg har arbejdet med:</h4>
 <table>
   <tr>
     <td>C#</td>
@@ -20,7 +26,7 @@
   </tr>
 </table>
 
-<h4>DevOps og cloud-værktøjer jeg har arbejdet med:</h4>
+<h4>DevOps & Cloud:</h4>
 <table>
   <tr>
     <td>Azure</td>
@@ -34,47 +40,18 @@
   </tr>
 </table>
 
-<h4>Datahåndtering:</h4>
-<p>Jeg har arbejdet med import og eksport af data fra API’er og filer i blandt andet:</p>
-<table>
-  <tr>
-    <td>MS SQL</td>
-    <td>JSON</td>
-    <td>XML</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="60px"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="60px"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="60px"></td>
-  </tr>
-</table>
-
 <h4>Frameworks & Arkitektur:</h4>
-<p>Jeg arbejder med .NET, Blazor og kender til MVC og MVVM. Jeg har også udforsket React og Angular for at forberede mig på kommende projekter.</p>
-<table>
-  <tr>
-    <td>.NET</td>
-    <td>Blazor</td>
-    <td>React</td>
-    <td>Angular</td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="60px"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="60px"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60px"></td>
-  </tr>
-</table>
+<p>.NET, Blazor, MVC, MVVM, og introduktion til React og Angular.</p>
 
-<h4>Projekter & erfaring:</h4>
+<h4>Projekter:</h4>
 <ul>
-  <li>Udviklet flere projekter i Blazor Server</li>
-  <li>Vedligeholdt og opdateret hjemmeside for et kulturprojekt (HTML, CSS, Bootstrap, JS) – <a href="https://www.gnist.show">gnist.show</a></li>
-  <li>Opsat egen Linux-server med Docker, MS SQL og Portainer</li>
+  <li>Udviklet projekter i Blazor Server</li>
+  <li>Vedligeholdt hjemmeside for et kulturprojekt – <a href="https://www.gnist.show">gnist.show</a></li>
+  <li>Opsætning af Linux-server med Docker, MS SQL og Portainer</li>
 </ul>
 
 <details>
-<summary>Mål og udvikling</summary>
+<summary>Mål & udvikling</summary>
 
 | Prioritet | Fokusområde |
 |-----------|-------------|
@@ -91,17 +68,17 @@
 
 <h2>🖇️ PROFIL</h2>
 <p>
-Jeg er passioneret omkring IT og elsker at finde løsninger, strukturere data og automatisere processer.  
-Jeg er nysgerrig, løsningsorienteret og analytisk, men også kreativ og visuel.  
-Min erfaring indenfor pædagogik har givet mig stærke sociale og relationsskabende kompetencer.
+Jeg elsker IT, fordi det er irriterende fedt — man kan kombinere logik, kreativitet og problemløsning på samme tid.  
+Jeg er nysgerrig, analytisk og løsningsorienteret, men også social og udadvendt.  
+Jeg sætter pris på teamwork og elsker at lære nyt, både inden for teknologi og i hverdagen.
 </p>
 
-<h4>😄 STYRKER</h4>
+<h4>😄 PERSONLIGE STYRKER</h4>
 <ul>
-  <li>Samarbejde og relationsopbygning</li>
+  <li>Teamplayer med stærke sociale kompetencer</li>
   <li>Proaktiv og nysgerrig</li>
-  <li>Logisk og analytisk tænkning</li>
-  <li>Formidling af viden</li>
+  <li>Analytisk og logisk tænkning</li>
+  <li>Formidling og videndeling</li>
 </ul>
 
 <h4>🏡 SPROG</h4>
@@ -110,13 +87,13 @@ Min erfaring indenfor pædagogik har givet mig stærke sociale og relationsskabe
   <li>Engelsk</li>
 </ul>
 
-<h4>🎨 HOBBYER</h4>
+<h4>🎨 HOBBYER & LIVSSTIL</h4>
 <p>
-Skak, kunst, gåture, musik, bøger og familie.  
-Opsætning og vedligehold af egen Linux-server med Docker, MS SQL og Portainer.
+Jeg elsker sport og bevægelse: fitness, Hyrox og boxing fylder en stor del af min hverdag, og jeg følger fodbold tæt.  
+Jeg nyder tid med venner og familie og bruger fritiden aktivt.
 </p>
 
-<h4>📫 Kontakt</h4>
+<h4>📫 KONTAKT</h4>
 <p>Email: <a href="mailto:mads@dockir.dk">mads@dockir.dk</a></p>
 
 <a href="https://[DIT-LINKEDIN]">
